@@ -1,0 +1,24 @@
+{
+  "name": "PhoneNumber",
+  "authors": [
+    "Leonardo Salles <leosallestm@gmail.com>"
+  ],
+  "description": "A JSON Based PhoneNumber library for validation and format",
+  "main": "PhoneNumber.js",
+  "moduleType": [],
+  "keywords": [
+    "phone",
+    "phonenumber",
+    "phonenumber.js",
+    "phonenumberjs"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
