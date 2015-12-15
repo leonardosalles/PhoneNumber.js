@@ -1,5 +1,5 @@
 {
-  "name": "PhoneNumber",
+  "name": "phonenumberjs",
   "authors": [
     "Leonardo Salles <leosallestm@gmail.com>"
   ],
@@ -12,7 +12,7 @@
     "phonenumber.js",
     "phonenumberjs"
   ],
-  "license": "MIT",
+  "license": "Apache License, Version 2.0",
   "homepage": "",
   "ignore": [
     "**/.*",
